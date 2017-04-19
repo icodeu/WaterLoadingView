@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="WaterLoadingView">
+        <attr name="waterColor" format="color" />
+        <attr name="waterFallVelocity" format="integer" />
+        <attr name="waterShakeVelocity" format="integer" />
+    </declare-styleable>
+
+</resources>
